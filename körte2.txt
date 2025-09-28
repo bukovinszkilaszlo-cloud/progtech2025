@@ -1,3 +1,4 @@
 alma
 körte 20 kg
 + körte 5 kg
+barack 1 kg
